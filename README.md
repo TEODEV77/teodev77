@@ -26,3 +26,28 @@
 <a href="https://linkedin.com/in/mateo-orozco-lotero-643419197" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mateo-orozco-lotero-643419197" height="30" width="40" /></a>
 <a href="https://instagram.com/teodev77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/teodev77" height="30" width="40" /></a>
 </p>
+
+## 📓 Studies 📓
+
+* Instrument technician (Piano), 2014 
+* Academic Baccalaureate, 2015
+* Systems Engineer, 2023
+  
+##  Work Experience 🛫
+
+## Freelancer
+
+* 🐍 I taught Java,Python, Angular and Ionic
+* 🎹 Personalized piano lessons 
+* 🕺🏻 Personalized dance lessons
+* 🌐 Static websites
+* 💻 Rest API with Express
+
+### Trainee Contract
+
+#### RPA Devaloper (JAN-2022-JULY-2022)
+
+* 💡 Analyze processes and determine their viability for possible self automation
+* 🤖 Building bots with UiPath
+* 📲 Building apps with Power Apps
+* 📝 Building bots docs
