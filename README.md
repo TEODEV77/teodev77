@@ -45,7 +45,7 @@
 
 ### Trainee Contract
 
-#### RPA Devaloper (JAN-2022-JULY-2022)
+#### RPA Developer (JAN-2022-JULY-2022)
 
 * 💡 Analyze processes and determine their viability for possible self automation
 * 🤖 Building bots with UiPath
