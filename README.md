@@ -19,43 +19,43 @@
     responsibilities. 💻
 </p>
 
-## Languages 💻
+## Languages 🌐
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,java,js,python,dart)](https://skillicons.dev)
 
-## Frontend
+## Frontend 🎨
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,scss,angular,astro,react,next,tailwind,flutter)](https://skillicons.dev)
 
-## Backend
+## Backend 🛠️
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,apollo,prisma,spring,django,fastapi,solidity,firebase)](https://skillicons.dev)
 
-## Testing
+## Testing 🧪
 
 [![My Skills](https://skillicons.dev/icons?i=jest,cypress)](https://skillicons.dev)
 
-## Database
+## Database 🗃️
 
 [![My Skills](https://skillicons.dev/icons?i=mongodb,postgres)](https://skillicons.dev)
 
-## Cloud
+## Cloud ☁️
 
 [![My Skills](https://skillicons.dev/icons?i=gcp,aws,azure)](https://skillicons.dev)
 
-## Shell
+## Shell  💻 
 
 [![My Skills](https://skillicons.dev/icons?i=powershell,bash)](https://skillicons.dev)
 
-## Automation 
+## Automation 🤖
 
 [![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,jenkins)](https://skillicons.dev)
 
-## OS
+## OS 🖥️
 
 [![My Skills](https://skillicons.dev/icons?i=windows,linux)](https://skillicons.dev)
 
-## Tools
+## Tools 🔧 
 
 [![My Skills](https://skillicons.dev/icons?i=git,vscode,eclipse,androidstudio,idea,discord,notion,stackoverflow)](https://skillicons.dev)
 
