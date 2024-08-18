@@ -13,7 +13,7 @@
 ## As a proactive individual passionate about the world of technology, I am always seeking opportunities to learn and grow professionally. I consider myself a self-taught learner who feels comfortable exploring new technologies and facing technical challenges. I am open and willing to learn any type of technology necessary to efficiently fulfill my responsibilities.
    
 <details>
-  <summary>Stack</summary>
+  <summary>Stack ⚒️ </summary>
 
   ## Programming languages 🌐
   
