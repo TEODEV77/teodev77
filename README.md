@@ -17,7 +17,7 @@
 
   ## Programming languages 🌐
   
-  [![My Skills](https://skillicons.dev/icons?i=cpp,java,js,python,dart)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=cs,cpp,java,js,python,dart,kotlin)](https://skillicons.dev)
   
   ## Frontend 🎨
   
