@@ -72,10 +72,10 @@
   
   #### RPA Developer (JAN-2022-JULY-2022)
 
-  * 💡 Analyze processes and determine their viability for possible self automation
-  * 🤖 Building bots with UiPath
-  * 📲 Building apps with Power Apps
-  * 📝 Building bots docs
+  * 💡 Analyzed processes and determined their viability for possible self-automation.
+  * 🤖 Built bots with UiPath
+  * 📲 Built apps with Power Apps
+  * 📝 Created documentation for bots.
   
 </details>
   
