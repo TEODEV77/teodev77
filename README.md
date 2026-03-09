@@ -10,7 +10,7 @@
 
  # 🔍 About me
 
-## My priority is not just writing code, but designing systems that solve real scalability, maintainability, and operational efficiency problems. I work with technologies such as NestJS, Django Rest Framework, Flask, and Spring Boot, choosing the right stack based on product needs and business context.
+My priority is not just writing code, but designing systems that solve real scalability, maintainability, and operational efficiency problems. I work with technologies such as NestJS, Django Rest Framework, Flask, and Spring Boot, choosing the right stack based on product needs and business context.
 
 I design solutions based on Hexagonal Architecture and Microservices, prioritizing separation of concerns, low coupling, and high cohesion. Rather than following trends, my approach is to build evolutionary systems that enable growth without technical friction or over-engineering.
 
