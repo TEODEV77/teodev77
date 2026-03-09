@@ -21,7 +21,7 @@ I strongly believe that the best technology is not the most complex one, but the
 
   ## Programming languages 🌐
   
-  [![My Skills](https://skillicons.dev/icons?i=cs,cpp,java,js,python,dart,kotlin)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=java,js,python)](https://skillicons.dev)
   
   ## Frontend 🎨
   
