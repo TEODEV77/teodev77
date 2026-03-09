@@ -10,7 +10,11 @@
 
  # 🔍 About me
 
-## As a proactive individual passionate about the world of technology, I am always seeking opportunities to learn and grow professionally. I consider myself a self-taught learner who feels comfortable exploring new technologies and facing technical challenges. I am open and willing to learn any type of technology necessary to efficiently fulfill my responsibilities.
+## My priority is not just writing code, but designing systems that solve real scalability, maintainability, and operational efficiency problems. I work with technologies such as NestJS, Django Rest Framework, Flask, and Spring Boot, choosing the right stack based on product needs and business context.
+
+I design solutions based on Hexagonal Architecture and Microservices, prioritizing separation of concerns, low coupling, and high cohesion. Rather than following trends, my approach is to build evolutionary systems that enable growth without technical friction or over-engineering.
+
+I strongly believe that the best technology is not the most complex one, but the one that empowers the business to scale with clarity, stability, and speed.
    
 <details>
   <summary>Stack ⚒️ </summary>
